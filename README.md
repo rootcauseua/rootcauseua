@@ -1,16 +1,18 @@
-## Hi there 👋
+# root@cause:~$ whoami
 
-<!--
-**rootcauseua/rootcauseua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Кібербезпека українською. Скрипти, тулзи, розбори.
 
-Here are some ideas to get you started:
+## > що тут
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 утиліти для OSINT і аналізу мережі
+- 🧪 лабораторні PoC для навчання
+- 🛠 дрібні автоматизації
+
+## > правила
+
+Усе — лише для навчання та тестування на власних системах
+або з письмового дозволу власника.
+
+## > де мене знайти
+
+TikTok: [@rootcause_ua](https://www.tiktok.com/@rootcause_ua)
